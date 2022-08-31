@@ -4,7 +4,7 @@ public class Message {
 
 	public static void main(String args[]) {
 		System.out.println("Say hi to your group mates!");
-		System.out.println("Xys dao ci yi you");
+		System.out.println("dao ci yi you");
 		System.out.println("666");
 	}
 }
